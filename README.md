@@ -38,5 +38,27 @@ Covers:
 <img width="1071" height="616" alt="Screenshot 2026-09-29 143713" src="https://github.com/user-attachments/assets/83ba4211-2ba6-43aa-9aec-52cb35db1ab2" />
 
 
+## Main Findings
+
+- AI adoption increased every year and rose especially sharply in 2024–2025.
+- Global AI market value increased sharply from **$400B in 2024 to $1.81T in 2025**.
+- Estimated revenue increase from AI reached **$5.5T in 2025**.
+- Across the full period, the report estimates **2.20M jobs eliminated** and **1.45M jobs created**, resulting in a net impact of about **-0.75M jobs**.
+- Employee productivity expectations and organizational AI usage were identified as strong drivers of estimated revenue increase.
+- Companies prioritizing AI in strategy showed the highest belief/priority measure among the groups analyzed.
+
+
+
+## Tools Used
+
+- Microsoft Power BI
+- DAX
+- Power Query
+- Data visualization
+- Data analysis
+
+See `Report/Rise_of_AI_Analysis_Report.pdf` for the complete report and dashboard analysis.
+
+
 
 
